@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)]()
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
